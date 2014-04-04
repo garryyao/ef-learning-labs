@@ -25,6 +25,10 @@ Or, the blue solid logo that suites for white background page.
 
 ![Logo ](https://raw.githubusercontent.com/garryyao/hangjs-ef-sponsorship/master/logo.png "EF Learning Labs")
 
+### Links
+
+http://labs.ef.com
+
 ###  Brief
 
 EF Learning Labs has the mission of to use technology to create a fundamentally better future for language learning, it has led
